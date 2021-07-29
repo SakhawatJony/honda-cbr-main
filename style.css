@@ -1,0 +1,75 @@
+/*-----------------------------------------
+               google font                     
+----------------------------------------------- */
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.honda-title{
+    color: #E76F51;
+}
+
+/*--------------------------------------------
+         Navbar custom style                           
+ -----------------------------------------------  */
+
+.navbar-light .navbar-brand{
+    color: goldenrod;
+    font-weight: 800;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: white;
+    font-weight: 500;
+}
+
+
+
+/*------------------------------------------
+             navbar custom ends here             
+  -------------------------------------------*/
+
+/*--------------------------------------------
+        header and intro style
+-------------------------------------------------  */
+       
+                                             
+.honda-bg{
+    width: 100%;
+    background: #264653;
+}
+
+.honda-btn{
+    color: #fff;
+    font-weight: 500;
+    background: #E76F51;
+    border-radius: 5px;
+    padding: 10px 46px;
+    
+}
+
+/*-----------------------------------
+        intro and header ends 
+-----------------------------------------*/
+
+
+/*--------------------------------------
+             features img style
+----------------------------------------*/
+
+.img-gray{
+    -webkit-filter: grayscale(100%); 
+    filter: grayscale(100%);
+}
+
+/* --------------------------
+   features img style ends         
+------------------------------- */
+.filled{
+    color: #E77C40;
+}
+
+.empty{
+    color: #E77C40;
+}
